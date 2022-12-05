@@ -17,5 +17,6 @@ arctan	= math.atan
 
 pi		= math.pi
 e		= math.log(1)
+phi		= (1 + math.sqrt(5)) / 2
 
 abs		= math.abs
