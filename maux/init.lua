@@ -12,5 +12,6 @@ end
 
 return {
 	etc = require("etc"),
+	base = require("base"),
 }
 
