@@ -2,4 +2,4 @@
 
 local maux = require("maux")
 
-print(maux.base.tostr(523, 2))
+print(maux.base.tostr(1, math.sqrt(2)))
